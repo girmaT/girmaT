@@ -78,5 +78,25 @@ I specialize in:
 
 ---
 
+
+## 📊 GitHub Stats
+
+![Girma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girmaT&show_icons=true&theme=react&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girmaT&layout=compact&theme=react&hide=html,css)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=girmaT&theme=algolia&column=7)](https://github.com/girmaT)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=girmaT&theme=react-dark)
+
+
+
 _“Architecting the future of intelligent, integrated, and resilient software platforms — from devices to the cloud.”_
 
