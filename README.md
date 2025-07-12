@@ -78,6 +78,34 @@ I specialize in:
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- Stats & Languages side-by-side with no table borders -->
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:top; border:none;">
+      <img src="https://my-github-stats-orcin.vercel.app/api?username=girmaT&show_icons=true&theme=react&count_private=true" alt="Girma's GitHub Stats" style="max-width:100%; border:none;" />
+    </td>
+    <td style="width:50%; text-align:center; vertical-align:top; border:none;">
+      <img src="https://my-github-stats-orcin.vercel.app/api/top-langs/?username=girmaT&layout=compact&theme=react&langs_count=10&hide=html,css" alt="Top Languages" style="max-width:100%; border:none;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girmaT&theme=react-dark" alt="GitHub Activity Graph" style="max-width:100%; border:none;" />
+</p>
+
+
+
+
+
+
 
 
 
