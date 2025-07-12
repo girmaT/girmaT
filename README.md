@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Girma Tememe Takele
+# 👋 Hi, I'm Girma Takele
 
 ### 🚀 Senior Software Engineer | Full-Stack Architect | AI/ML + EMR + Platform Modernization Expert  
 📍 Based in the USA | MSc & BSc in Computer Science | BA in Business Administration  
@@ -98,7 +98,7 @@ I specialize in:
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girmaT&theme=react-dark" alt="GitHub Activity Graph" style="max-width:100%; border:none;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girmaT&theme=yeblu" alt="GitHub Activity Graph" style="max-width:100%; border:none;" />
 </p>
 
 
