@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Girma Takele
 
 ### 🚀 Senior Software Engineer | Full-Stack Architect | AI/ML + EMR + Platform Modernization Expert  
-📍 Based in the USA | MSc & BSc in Computer Science | BA in Business Administration  
+📍 Based in the USA | MSc & BSc in Computer Science | BA in Business Administration(Management)
 🔗 [LinkedIn](https://www.linkedin.com/in/girma-takele/) • [GitHub](https://github.com/girmaT)
 
 ---
