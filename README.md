@@ -98,7 +98,7 @@ I specialize in:
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girmaT&theme=yeblu" alt="GitHub Activity Graph" style="max-width:100%; border:none;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girmaT&theme=react-dark&bg_color=00000000" alt="GitHub Activity Graph" style="max-width:100%; border:none;" />
 </p>
 
 
